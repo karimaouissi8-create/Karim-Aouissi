@@ -1,0 +1,8 @@
+{
+  "name": "Islamic AI Assistant",
+  "description": "An intelligent AI assistant specialized in Islamic knowledge, providing voice-based answers from the Quran and Sunnah, Hadith verification, and daily Adhkar. All content is in Arabic.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
